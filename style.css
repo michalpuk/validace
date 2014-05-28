@@ -1,0 +1,150 @@
+body {
+	
+	padding: 0;
+	font-family: Comic Sans MS;
+	font-style: italic;
+	font-size: 12px;
+	margin: 0px auto auto auto;
+	
+}
+a:link {
+	text-decoration: underline;
+	color: #ae1600;
+}
+a:hover {
+	color: blue;
+	font-weight: bold;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+h1 {
+	font-family: Harlow Solid Italic;
+	font-size: 20px;
+	color: green;
+	font-weight: bold;
+	padding: 5px 0 5px 0;
+	margin: 0px;
+}
+h2 {
+	font-family: Comic Sans MS;
+	font-size: 12px;
+	color: #ae1600;
+	font-weight: bold;
+	padding: 5px 0 5px 0;
+	margin: 0px;
+}
+.clear {
+	clear: both;
+}
+p {
+	font-family: Comic Sans MS;
+	text-align: justify;
+	line-height: 17px;
+	padding: 6px 0 6px 0;
+	margin: 0px;
+}
+img.prod_img {
+	float: left;
+	padding: 5px 10px 0 0;
+}
+img.prod_img2 {
+	float: right;
+	padding: 10px 15px 0 0;
+}
+#C1 {
+	width: 960px;
+	height: auto;
+	margin: auto;
+	padding: 0px;
+	
+}
+#C2 {
+	width: 677px;
+	height: 173px;
+	margin: auto;
+}
+#menu_tab {
+	width: 550px;
+	height: 28px;
+	padding: 0 0 0 225px;
+}
+ul.menu {
+	list-style-type: none;
+	display: block;
+	margin: auto;
+	padding: 0px;
+	background: none;
+}
+ul.menu li {
+	display: inline;
+	font-size: 13px;
+	font-weight: bold;
+	font-style: italic;
+	line-height: 28px;
+}
+a.nav:link, a.nav:visited {
+	display: block;
+	float: left;
+	padding: 0px;
+	width: 122px;
+	height: 28px;
+	margin: 0px 5px 0px 5px;
+	text-align: center;
+	text-decoration: none;
+	
+	color: #313537;
+}
+a.nav_selected:link, a.nav_selected:visited {
+	display: block;
+	float: left;
+	padding: 0px;
+	width: 122px;
+	height: 28px;
+	margin: 0px 5px 0px 5px;
+	text-align: center;
+	text-decoration: none;
+	
+	color: #313537;
+}
+a.nav:hover {
+	color: #313537;
+	text-decoration: none;
+	
+}
+/*----------------main_content----------------*/
+#S1 {
+	width: 787px;
+	clear: both;
+	height: auto;
+	margin: auto;
+	
+}
+.center {
+	width: 787px;
+	
+}
+.welcome_block {
+	width: 500px;
+	padding: 20px 0 0 40px;
+}
+.title {
+	clear: both;
+	border-bottom: 1px dashed #808dbb;
+	padding: 0 0 5px 0;
+}
+.hlavni {
+	float: left;
+	padding: 10px 10px 10px 15px;
+}
+#spodek {
+	width: 787px;
+	height: 58px;
+	
+	clear: both;
+	padding: 0px;
+	margin: auto;
+	text-align: center;
+	color: #999999;
+}
